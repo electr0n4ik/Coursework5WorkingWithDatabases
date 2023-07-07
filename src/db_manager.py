@@ -150,7 +150,7 @@ class DBManager:
 
     def get_vacancies_with_keyword(self, keyword):
         """Получает список всех вакансий, в названии которых содержатся переданные в метод слова, например “python”."""
-        query = f"SELECT * FROM vacancies WHERE title ILIKE '%{keyword}%'"
+        query = f"SELECT * FROM vacancies WHERE description ILIKE '%{keyword}%'"
 
         with self.conn.cursor() as cursor:
             cursor.execute(query)
