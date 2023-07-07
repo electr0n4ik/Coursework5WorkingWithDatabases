@@ -270,76 +270,6 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "81615897",
-      "premium": false,
-      "name": "Специалист по работе с аптеками (торговый представитель)",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
-      },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-07-03T12:25:04+0300",
-      "created_at": "2023-07-03T12:25:04+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81615897",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/81615897?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/81615897",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Опыт работы в продажах в канале аптеки желателен. Нацеленность на результат, активная жизненная позиция, коммуникабельность, желание развиваться в сфере продаж.",
-        "responsibility": "Посещение маршрута (до 15 точек в день). Зона ответственности Москва и МО. Формирование заказов. Сканировка ХО. Мерчандайзинг. Работа с ПДЗ. "
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "129",
-          "name": "Торговый представитель"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "between1And3",
-        "name": "От 1 года до 3 лет"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
       "id": "83126866",
       "premium": false,
       "name": "Product development Team lead / Руководитель группы по разработке продукта",
@@ -437,43 +367,32 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "82615939",
+      "id": "81615897",
       "premium": false,
-      "name": "Специалист по документообороту",
+      "name": "Специалист по работе с аптеками (торговый представитель)",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "2092",
-        "name": "Лобня",
-        "url": "https://api.hh.ru/areas/2092"
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
       },
       "salary": null,
       "type": {
         "id": "open",
         "name": "Открытая"
       },
-      "address": {
-        "city": "деревня Глазово",
-        "street": null,
-        "building": "с1",
-        "lat": 56.098085,
-        "lng": 37.337271,
-        "description": null,
-        "raw": "деревня Глазово, с1",
-        "metro": null,
-        "metro_stations": [],
-        "id": "6942154"
-      },
+      "address": null,
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2023-06-28T09:15:24+0300",
-      "created_at": "2023-06-28T09:15:24+0300",
+      "published_at": "2023-07-03T12:25:04+0300",
+      "created_at": "2023-07-03T12:25:04+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82615939",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81615897",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/82615939?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/82615939",
+      "url": "https://api.hh.ru/vacancies/81615897?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/81615897",
       "relations": [],
       "employer": {
         "id": "6",
@@ -490,8 +409,8 @@
         "trusted": true
       },
       "snippet": {
-        "requirement": "Знание форм и методов бухгалтерского и налогового учета. Знание организации документооборота по бухгалтерскому и налоговому учету. Знание порядка документального оформления...",
-        "responsibility": "Прием и проверка пакета первичных документов и счетов-фактур на предмет их корректности и комплектности в соответствии с требованиями бухгалтерского..."
+        "requirement": "Опыт работы в продажах в канале аптеки желателен. Нацеленность на результат, активная жизненная позиция, коммуникабельность, желание развиваться в сфере продаж.",
+        "responsibility": "Посещение маршрута (до 15 точек в день). Зона ответственности Москва и МО. Формирование заказов. Сканировка ХО. Мерчандайзинг. Работа с ПДЗ. "
       },
       "contacts": null,
       "schedule": null,
@@ -501,14 +420,14 @@
       "accept_temporary": false,
       "professional_roles": [
         {
-          "id": "84",
-          "name": "Оператор ПК, оператор базы данных"
+          "id": "129",
+          "name": "Торговый представитель"
         }
       ],
-      "accept_incomplete_resumes": false,
+      "accept_incomplete_resumes": true,
       "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
       },
       "employment": {
         "id": "full",
@@ -595,6 +514,87 @@
       "experience": {
         "id": "between1And3",
         "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82615939",
+      "premium": false,
+      "name": "Специалист по документообороту",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2092",
+        "name": "Лобня",
+        "url": "https://api.hh.ru/areas/2092"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "деревня Глазово",
+        "street": null,
+        "building": "с1",
+        "lat": 56.098085,
+        "lng": 37.337271,
+        "description": null,
+        "raw": "деревня Глазово, с1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "6942154"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-28T09:15:24+0300",
+      "created_at": "2023-06-28T09:15:24+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82615939",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82615939?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82615939",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знание форм и методов бухгалтерского и налогового учета. Знание организации документооборота по бухгалтерскому и налоговому учету. Знание порядка документального оформления...",
+        "responsibility": "Прием и проверка пакета первичных документов и счетов-фактур на предмет их корректности и комплектности в соответствии с требованиями бухгалтерского..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "84",
+          "name": "Оператор ПК, оператор базы данных"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
       },
       "employment": {
         "id": "full",
@@ -1395,6 +1395,87 @@
       "is_adv_vacancy": false
     },
     {
+      "id": "83095053",
+      "premium": false,
+      "name": "Мерчендайзер (ст.м.Проспект Просвещения, улицы: пр. Просвещения, пр. Художников, Сиреневый б-р)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "2 линия",
+        "building": "метро Проспект Просвещения",
+        "lat": 60.051176,
+        "lng": 30.332676,
+        "description": null,
+        "raw": "Санкт-Петербург, 2 линия, метро Проспект Просвещения",
+        "metro": null,
+        "metro_stations": [],
+        "id": "6389215"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-06T14:11:03+0300",
+      "created_at": "2023-07-06T14:11:03+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83095053",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/83095053?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/83095053",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы мерчендайзером желателен, но не является обязательным. Коммуникабельность, быстрая обучаемость, ответственность, самостоятельность.",
+        "responsibility": "Обеспечение выкладки продукции согласно корпоративной планограмме. Обеспечение максимальной представленности брендов компании в торговых точках. Поддержание товарного вида упаковки и имиджа..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "77",
+          "name": "Мерчандайзер"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
       "id": "81650300",
       "premium": false,
       "name": "Территориальный менеджер в канале современная и традиционная торговля (Пенза)",
@@ -1567,87 +1648,6 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "83095053",
-      "premium": false,
-      "name": "Мерчендайзер (ст.м.Проспект Просвещения, улицы: пр. Просвещения, пр. Художников, Сиреневый б-р)",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "2",
-        "name": "Санкт-Петербург",
-        "url": "https://api.hh.ru/areas/2"
-      },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": {
-        "city": "Санкт-Петербург",
-        "street": "2 линия",
-        "building": "метро Проспект Просвещения",
-        "lat": 60.051176,
-        "lng": 30.332676,
-        "description": null,
-        "raw": "Санкт-Петербург, 2 линия, метро Проспект Просвещения",
-        "metro": null,
-        "metro_stations": [],
-        "id": "6389215"
-      },
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-07-06T14:11:03+0300",
-      "created_at": "2023-07-06T14:11:03+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83095053",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/83095053?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/83095053",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Опыт работы мерчендайзером желателен, но не является обязательным. Коммуникабельность, быстрая обучаемость, ответственность, самостоятельность.",
-        "responsibility": "Обеспечение выкладки продукции согласно корпоративной планограмме. Обеспечение максимальной представленности брендов компании в торговых точках. Поддержание товарного вида упаковки и имиджа..."
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "77",
-          "name": "Мерчандайзер"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
       "id": "80828496",
       "premium": false,
       "name": "Мерчендайзер (м. Ленинский проспект)",
@@ -1758,16 +1758,16 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "82825301",
+      "id": "81664774",
       "premium": false,
-      "name": "Мобильный мерчендайзер",
+      "name": "Пеший мерчендайзер (Промышленный/Кировский)",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "2381",
-        "name": "Алушта",
-        "url": "https://api.hh.ru/areas/2381"
+        "id": "78",
+        "name": "Самара",
+        "url": "https://api.hh.ru/areas/78"
       },
       "salary": null,
       "type": {
@@ -1777,13 +1777,13 @@
       "address": null,
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2023-06-30T09:21:16+0300",
-      "created_at": "2023-06-30T09:21:16+0300",
+      "published_at": "2023-07-04T16:06:58+0300",
+      "created_at": "2023-07-04T16:06:58+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82825301",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81664774",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/82825301?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/82825301",
+      "url": "https://api.hh.ru/vacancies/81664774?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/81664774",
       "relations": [],
       "employer": {
         "id": "6",
@@ -1828,16 +1828,16 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "81664774",
+      "id": "82825301",
       "premium": false,
-      "name": "Пеший мерчендайзер (Промышленный/Кировский)",
+      "name": "Мобильный мерчендайзер",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "78",
-        "name": "Самара",
-        "url": "https://api.hh.ru/areas/78"
+        "id": "2381",
+        "name": "Алушта",
+        "url": "https://api.hh.ru/areas/2381"
       },
       "salary": null,
       "type": {
@@ -1847,13 +1847,13 @@
       "address": null,
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2023-07-04T16:06:58+0300",
-      "created_at": "2023-07-04T16:06:58+0300",
+      "published_at": "2023-06-30T09:21:16+0300",
+      "created_at": "2023-06-30T09:21:16+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81664774",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82825301",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/81664774?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/81664774",
+      "url": "https://api.hh.ru/vacancies/82825301?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82825301",
       "relations": [],
       "employer": {
         "id": "6",
@@ -2016,6 +2016,76 @@
       "is_adv_vacancy": false
     },
     {
+      "id": "80374623",
+      "premium": false,
+      "name": "Старший торговый представитель (Красносельский, Кировский, Московский)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-03T10:40:41+0300",
+      "created_at": "2023-07-03T10:40:41+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80374623",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/80374623?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/80374623",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы торговым представителем. Знание техники продаж. Умение работать с возражениями. Владение ПК на уровне уверенного пользователя. Нацеленность на результат...",
+        "responsibility": "Поддержание клиентской базы: сохранение лояльности клиентов, оформление заказов. Увеличение АКБ: привлечение новых клиентов, проведение переговоров, работа с возражениями. "
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "129",
+          "name": "Торговый представитель"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
       "id": "80165269",
       "premium": false,
       "name": "Микробиолог",
@@ -2090,76 +2160,6 @@
         }
       ],
       "accept_incomplete_resumes": false,
-      "experience": {
-        "id": "between1And3",
-        "name": "От 1 года до 3 лет"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "80374623",
-      "premium": false,
-      "name": "Старший торговый представитель (Красносельский, Кировский, Московский)",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "2",
-        "name": "Санкт-Петербург",
-        "url": "https://api.hh.ru/areas/2"
-      },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-07-03T10:40:41+0300",
-      "created_at": "2023-07-03T10:40:41+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80374623",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/80374623?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/80374623",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Опыт работы торговым представителем. Знание техники продаж. Умение работать с возражениями. Владение ПК на уровне уверенного пользователя. Нацеленность на результат...",
-        "responsibility": "Поддержание клиентской базы: сохранение лояльности клиентов, оформление заказов. Увеличение АКБ: привлечение новых клиентов, проведение переговоров, работа с возражениями. "
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "129",
-          "name": "Торговый представитель"
-        }
-      ],
-      "accept_incomplete_resumes": true,
       "experience": {
         "id": "between1And3",
         "name": "От 1 года до 3 лет"
@@ -2270,415 +2270,6 @@
         }
       ],
       "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "81688442",
-      "premium": false,
-      "name": "Мерчендайзер (Артамонова, Ленинский прт, Переверткина, Ржевская)",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "26",
-        "name": "Воронеж",
-        "url": "https://api.hh.ru/areas/26"
-      },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-06-08T09:04:45+0300",
-      "created_at": "2023-06-08T09:04:45+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81688442",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/81688442?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/81688442",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
-        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "77",
-          "name": "Мерчандайзер"
-        }
-      ],
-      "accept_incomplete_resumes": false,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
-      },
-      "employment": {
-        "id": "part",
-        "name": "Частичная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "82965799",
-      "premium": false,
-      "name": "Бухгалтер /группа по учету внеоборотных активов",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "2088",
-        "name": "Зеленоград",
-        "url": "https://api.hh.ru/areas/2088"
-      },
-      "salary": {
-        "from": 88000,
-        "to": null,
-        "currency": "RUR",
-        "gross": true
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": {
-        "city": "деревня Глазово",
-        "street": null,
-        "building": "с1",
-        "lat": 56.098085,
-        "lng": 37.337271,
-        "description": null,
-        "raw": "деревня Глазово, с1",
-        "metro": null,
-        "metro_stations": [],
-        "id": "6942154"
-      },
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-07-04T11:52:38+0300",
-      "created_at": "2023-07-04T11:52:38+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82965799",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/82965799?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/82965799",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Знание планов счетов, корреспонденции бухгалтерских счетов. Профессиональное владение ПК, знание программы 1С, желательно 1С ЕРП. Ответственность, исполнительность, умение...",
-        "responsibility": "Ведение учета внеоборотных активов, основных средств, нематериальных активов для налоговых и уставных целей, расчет корректирующих амортизационных операций, учет арендных операций..."
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "18",
-          "name": "Бухгалтер"
-        }
-      ],
-      "accept_incomplete_resumes": false,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "81766563",
-      "premium": false,
-      "name": "Специалист по техническому регулированию",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
-      },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": {
-        "city": null,
-        "street": null,
-        "building": null,
-        "lat": null,
-        "lng": null,
-        "description": null,
-        "raw": null,
-        "metro": {
-          "station_name": "Павелецкая",
-          "line_name": "Замоскворецкая",
-          "station_id": "2.101",
-          "line_id": "2",
-          "lat": 55.729741,
-          "lng": 37.638693
-        },
-        "metro_stations": [
-          {
-            "station_name": "Павелецкая",
-            "line_name": "Замоскворецкая",
-            "station_id": "2.101",
-            "line_id": "2",
-            "lat": 55.729741,
-            "lng": 37.638693
-          }
-        ],
-        "id": "304481"
-      },
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-07-05T09:56:26+0300",
-      "created_at": "2023-07-05T09:56:26+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81766563",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/81766563?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/81766563",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Опыт работы со схожим функционалом от 1 года. Знание структуры и содержания законодательства ЕАЭС, РФ. Знание принципов проведения органолептических, физико...",
-        "responsibility": "Претензионная работа (ведение реестра обращений от конечных и торговых покупателей, информирование ответственных лиц, обратная связь с потребителями). Организация процессов подтверждения..."
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "40",
-          "name": "Другое"
-        }
-      ],
-      "accept_incomplete_resumes": false,
-      "experience": {
-        "id": "between1And3",
-        "name": "От 1 года до 3 лет"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "80434491",
-      "premium": false,
-      "name": "Начальник смены",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "58",
-        "name": "Липецк",
-        "url": "https://api.hh.ru/areas/58"
-      },
-      "salary": {
-        "from": 63000,
-        "to": null,
-        "currency": "RUR",
-        "gross": true
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": {
-        "city": "Липецк",
-        "street": "Универсальный проезд",
-        "building": "14а",
-        "lat": 52.6130627959883,
-        "lng": 39.5238757850415,
-        "description": null,
-        "raw": "Липецк, Универсальный проезд, 14а",
-        "metro": null,
-        "metro_stations": [],
-        "id": "447674"
-      },
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-06-13T08:22:42+0300",
-      "created_at": "2023-06-13T08:22:42+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80434491",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/80434491?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/80434491",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Опыт работы начальником или мастером смены ( желательно пищевое производство). Высшее/среднее профессиональное образование.",
-        "responsibility": "Организация работы на производстве ( разработка плана работы, распределение обязанностей между подчиненными, контроль). Работа с документами ( составления графика отпусков, оформляет первичные..."
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "82",
-          "name": "Начальник смены, мастер участка"
-        }
-      ],
-      "accept_incomplete_resumes": false,
-      "experience": {
-        "id": "between3And6",
-        "name": "От 3 до 6 лет"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "83091654",
-      "premium": false,
-      "name": "Мерчендайзер",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "2090",
-        "name": "Королев",
-        "url": "https://api.hh.ru/areas/2090"
-      },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-07-06T13:41:00+0300",
-      "created_at": "2023-07-06T13:41:00+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83091654",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/83091654?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/83091654",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
-        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "77",
-          "name": "Мерчандайзер"
-        }
-      ],
-      "accept_incomplete_resumes": false,
       "experience": {
         "id": "noExperience",
         "name": "Нет опыта"
@@ -2809,6 +2400,345 @@
       "is_adv_vacancy": false
     },
     {
+      "id": "81688442",
+      "premium": false,
+      "name": "Мерчендайзер (Артамонова, Ленинский прт, Переверткина, Ржевская)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "26",
+        "name": "Воронеж",
+        "url": "https://api.hh.ru/areas/26"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-08T09:04:45+0300",
+      "created_at": "2023-06-08T09:04:45+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81688442",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/81688442?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/81688442",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
+        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "77",
+          "name": "Мерчандайзер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "81766563",
+      "premium": false,
+      "name": "Специалист по техническому регулированию",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": null,
+        "lng": null,
+        "description": null,
+        "raw": null,
+        "metro": {
+          "station_name": "Павелецкая",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.101",
+          "line_id": "2",
+          "lat": 55.729741,
+          "lng": 37.638693
+        },
+        "metro_stations": [
+          {
+            "station_name": "Павелецкая",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.101",
+            "line_id": "2",
+            "lat": 55.729741,
+            "lng": 37.638693
+          }
+        ],
+        "id": "304481"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-05T09:56:26+0300",
+      "created_at": "2023-07-05T09:56:26+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81766563",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/81766563?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/81766563",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы со схожим функционалом от 1 года. Знание структуры и содержания законодательства ЕАЭС, РФ. Знание принципов проведения органолептических, физико...",
+        "responsibility": "Претензионная работа (ведение реестра обращений от конечных и торговых покупателей, информирование ответственных лиц, обратная связь с потребителями). Организация процессов подтверждения..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82965799",
+      "premium": false,
+      "name": "Бухгалтер /группа по учету внеоборотных активов",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2088",
+        "name": "Зеленоград",
+        "url": "https://api.hh.ru/areas/2088"
+      },
+      "salary": {
+        "from": 88000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "деревня Глазово",
+        "street": null,
+        "building": "с1",
+        "lat": 56.098085,
+        "lng": 37.337271,
+        "description": null,
+        "raw": "деревня Глазово, с1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "6942154"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-04T11:52:38+0300",
+      "created_at": "2023-07-04T11:52:38+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82965799",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82965799?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82965799",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знание планов счетов, корреспонденции бухгалтерских счетов. Профессиональное владение ПК, знание программы 1С, желательно 1С ЕРП. Ответственность, исполнительность, умение...",
+        "responsibility": "Ведение учета внеоборотных активов, основных средств, нематериальных активов для налоговых и уставных целей, расчет корректирующих амортизационных операций, учет арендных операций..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "18",
+          "name": "Бухгалтер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "80434491",
+      "premium": false,
+      "name": "Начальник смены",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "58",
+        "name": "Липецк",
+        "url": "https://api.hh.ru/areas/58"
+      },
+      "salary": {
+        "from": 63000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Липецк",
+        "street": "Универсальный проезд",
+        "building": "14а",
+        "lat": 52.6130627959883,
+        "lng": 39.5238757850415,
+        "description": null,
+        "raw": "Липецк, Универсальный проезд, 14а",
+        "metro": null,
+        "metro_stations": [],
+        "id": "447674"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-13T08:22:42+0300",
+      "created_at": "2023-06-13T08:22:42+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80434491",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/80434491?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/80434491",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы начальником или мастером смены ( желательно пищевое производство). Высшее/среднее профессиональное образование.",
+        "responsibility": "Организация работы на производстве ( разработка плана работы, распределение обязанностей между подчиненными, контроль). Работа с документами ( составления графика отпусков, оформляет первичные..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "82",
+          "name": "Начальник смены, мастер участка"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
       "id": "81693674",
       "premium": false,
       "name": "Микробиолог",
@@ -2884,16 +2814,16 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "82044506",
+      "id": "83091654",
       "premium": false,
-      "name": "Менеджер по работе с ключевыми клиентами / КАМ в HoReCa (рестораны)",
+      "name": "Мерчендайзер",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "2",
-        "name": "Санкт-Петербург",
-        "url": "https://api.hh.ru/areas/2"
+        "id": "2090",
+        "name": "Королев",
+        "url": "https://api.hh.ru/areas/2090"
       },
       "salary": null,
       "type": {
@@ -2903,13 +2833,13 @@
       "address": null,
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2023-07-03T13:29:28+0300",
-      "created_at": "2023-07-03T13:29:28+0300",
+      "published_at": "2023-07-06T13:41:00+0300",
+      "created_at": "2023-07-06T13:41:00+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82044506",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83091654",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/82044506?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/82044506",
+      "url": "https://api.hh.ru/vacancies/83091654?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/83091654",
       "relations": [],
       "employer": {
         "id": "6",
@@ -2926,8 +2856,8 @@
         "trusted": true
       },
       "snippet": {
-        "requirement": "Навыки развития продаж в канале On-Trade, сетевые рестораны и кафе - обязательно от 2 лет. Высшее образование. Нацеленность на результат...",
-        "responsibility": "Обеспечение узнаваемости и развития бренда в сетевом сегменте On-Trade. Выполнение целей по продажам и дистрибуции. Взаимодействие с командой продаж..."
+        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
+        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
       },
       "contacts": null,
       "schedule": null,
@@ -2937,14 +2867,14 @@
       "accept_temporary": false,
       "professional_roles": [
         {
-          "id": "70",
-          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+          "id": "77",
+          "name": "Мерчандайзер"
         }
       ],
       "accept_incomplete_resumes": false,
       "experience": {
-        "id": "between1And3",
-        "name": "От 1 года до 3 лет"
+        "id": "noExperience",
+        "name": "Нет опыта"
       },
       "employment": {
         "id": "full",
@@ -3050,6 +2980,76 @@
       "experience": {
         "id": "noExperience",
         "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82044506",
+      "premium": false,
+      "name": "Менеджер по работе с ключевыми клиентами / КАМ в HoReCa (рестораны)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-03T13:29:28+0300",
+      "created_at": "2023-07-03T13:29:28+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82044506",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82044506?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82044506",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Навыки развития продаж в канале On-Trade, сетевые рестораны и кафе - обязательно от 2 лет. Высшее образование. Нацеленность на результат...",
+        "responsibility": "Обеспечение узнаваемости и развития бренда в сетевом сегменте On-Trade. Выполнение целей по продажам и дистрибуции. Взаимодействие с командой продаж..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "70",
+          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
       },
       "employment": {
         "id": "full",
@@ -3470,6 +3470,92 @@
       "is_adv_vacancy": false
     },
     {
+      "id": "82374148",
+      "premium": false,
+      "name": "Разнорабочий",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 40000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Новосибирск",
+        "street": "Бердское шоссе",
+        "building": "510",
+        "lat": 54.856486,
+        "lng": 83.075236,
+        "description": null,
+        "raw": "Новосибирск, Бердское шоссе, 510",
+        "metro": null,
+        "metro_stations": [],
+        "id": "795441"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-26T06:00:08+0300",
+      "created_at": "2023-06-26T06:00:08+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82374148",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82374148?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82374148",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Желание работать. Образование среднее/среднее-специальное.",
+        "responsibility": "Прием/передача оборудования. Диагностика, дезинфекция, упаковка оборудования (кулеры, помпы). Предпродажная подготовка нового оборудования."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "102",
+          "name": "Разнорабочий"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
       "id": "80603134",
       "premium": false,
       "name": "Мерчендайзер ЗЖМ (Западный)",
@@ -3680,6 +3766,76 @@
       "is_adv_vacancy": false
     },
     {
+      "id": "81764358",
+      "premium": false,
+      "name": "Менеджер по копакингу",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-07T09:58:01+0300",
+      "created_at": "2023-07-07T09:58:01+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81764358",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/81764358?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/81764358",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы не менее 3 лет на аналогичных должностях на крупных предприятиях пищевой промышленности по производству и розливу напитков. ",
+        "responsibility": "Организация комплексной работы с копакерами Компании на территории России. Руководство командой по копакингу оперативное регулирование и контроль выполнения поставленных задач..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "107",
+          "name": "Руководитель проектов"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
       "id": "81839091",
       "premium": false,
       "name": "Микробиолог",
@@ -3825,6 +3981,76 @@
       "is_adv_vacancy": false
     },
     {
+      "id": "80441107",
+      "premium": false,
+      "name": "Мерчендайзер",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "88",
+        "name": "Казань",
+        "url": "https://api.hh.ru/areas/88"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-10T14:16:18+0300",
+      "created_at": "2023-06-10T14:16:18+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80441107",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/80441107?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/80441107",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
+        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "77",
+          "name": "Мерчандайзер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
       "id": "81324789",
       "premium": false,
       "name": "Мерчендайзер (м. Академическая)",
@@ -3943,76 +4169,6 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "80441107",
-      "premium": false,
-      "name": "Мерчендайзер",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "88",
-        "name": "Казань",
-        "url": "https://api.hh.ru/areas/88"
-      },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-06-10T14:16:18+0300",
-      "created_at": "2023-06-10T14:16:18+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80441107",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/80441107?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/80441107",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
-        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "77",
-          "name": "Мерчандайзер"
-        }
-      ],
-      "accept_incomplete_resumes": false,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
       "id": "81339331",
       "premium": false,
       "name": "Бизнес-аналитик(служба планирования)",
@@ -4110,6 +4266,76 @@
       "is_adv_vacancy": false
     },
     {
+      "id": "82256743",
+      "premium": false,
+      "name": "Территориальный менеджер по развитию продаж в канале традиционная и современная торговля",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-21T17:34:45+0300",
+      "created_at": "2023-06-21T17:34:45+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82256743",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82256743?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82256743",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Образование законченное высшее. Опыт работы от 3 лет территориальным менеджером или от 5 лет супервайзером. Опыт успешных личных продаж. ",
+        "responsibility": "Выполнение бюджета продаж sell in, sell out по территории ответственности: Нижегородская область, Саранск, Киров. Работа с дистрибьюторами для обеспечения достаточного..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "106",
+          "name": "Руководитель отдела продаж"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
       "id": "81453064",
       "premium": false,
       "name": "Разнорабочий/грузчик",
@@ -4185,16 +4411,16 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "82256743",
+      "id": "81847957",
       "premium": false,
-      "name": "Территориальный менеджер по развитию продаж в канале традиционная и современная торговля",
+      "name": "Менеджер по копакингу",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "66",
-        "name": "Нижний Новгород",
-        "url": "https://api.hh.ru/areas/66"
+        "id": "58",
+        "name": "Липецк",
+        "url": "https://api.hh.ru/areas/58"
       },
       "salary": null,
       "type": {
@@ -4204,13 +4430,13 @@
       "address": null,
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2023-06-21T17:34:45+0300",
-      "created_at": "2023-06-21T17:34:45+0300",
+      "published_at": "2023-07-07T09:58:01+0300",
+      "created_at": "2023-07-07T09:58:01+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82256743",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81847957",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/82256743?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/82256743",
+      "url": "https://api.hh.ru/vacancies/81847957?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/81847957",
       "relations": [],
       "employer": {
         "id": "6",
@@ -4227,8 +4453,8 @@
         "trusted": true
       },
       "snippet": {
-        "requirement": "Образование законченное высшее. Опыт работы от 3 лет территориальным менеджером или от 5 лет супервайзером. Опыт успешных личных продаж. ",
-        "responsibility": "Выполнение бюджета продаж sell in, sell out по территории ответственности: Нижегородская область, Саранск, Киров. Работа с дистрибьюторами для обеспечения достаточного..."
+        "requirement": "Опыт работы не менее 3 лет на аналогичных должностях на крупных предприятиях пищевой промышленности по производству и розливу напитков. ",
+        "responsibility": "Организация комплексной работы с копакерами Компании на территории России. Руководство командой по копакингу оперативное регулирование и контроль выполнения поставленных задач..."
       },
       "contacts": null,
       "schedule": null,
@@ -4238,8 +4464,8 @@
       "accept_temporary": false,
       "professional_roles": [
         {
-          "id": "106",
-          "name": "Руководитель отдела продаж"
+          "id": "107",
+          "name": "Руководитель проектов"
         }
       ],
       "accept_incomplete_resumes": false,
@@ -4427,173 +4653,6 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "79460765",
-      "premium": false,
-      "name": "Менеджер производства",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "58",
-        "name": "Липецк",
-        "url": "https://api.hh.ru/areas/58"
-      },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": {
-        "city": "Липецк",
-        "street": "Универсальный проезд",
-        "building": "14А",
-        "lat": 52.613168,
-        "lng": 39.525109,
-        "description": null,
-        "raw": "Липецк, Универсальный проезд, 14А",
-        "metro": null,
-        "metro_stations": [],
-        "id": "5940262"
-      },
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-06-13T08:11:33+0300",
-      "created_at": "2023-06-13T08:11:33+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79460765",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/79460765?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/79460765",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Знание законов и иных правовых актов Российской Федерации, касающихся области промышленной безопасности. Знание действующих норм и правил, государственные и отраслевые...",
-        "responsibility": "Обеспечение выполнения производственного плана. Контроль корректности учета используемого сырья, выпуска готовой продукции, обеспечение процесса отчетности о работе производственных смен и..."
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "80",
-          "name": "Начальник производства"
-        }
-      ],
-      "accept_incomplete_resumes": false,
-      "experience": {
-        "id": "between3And6",
-        "name": "От 3 до 6 лет"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "82374148",
-      "premium": false,
-      "name": "Разнорабочий",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "4",
-        "name": "Новосибирск",
-        "url": "https://api.hh.ru/areas/4"
-      },
-      "salary": {
-        "from": 40000,
-        "to": null,
-        "currency": "RUR",
-        "gross": false
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": {
-        "city": "Новосибирск",
-        "street": "Бердское шоссе",
-        "building": "510",
-        "lat": 54.856486,
-        "lng": 83.075236,
-        "description": null,
-        "raw": "Новосибирск, Бердское шоссе, 510",
-        "metro": null,
-        "metro_stations": [],
-        "id": "795441"
-      },
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-06-26T06:00:08+0300",
-      "created_at": "2023-06-26T06:00:08+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82374148",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/82374148?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/82374148",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Желание работать. Образование среднее/среднее-специальное.",
-        "responsibility": "Прием/передача оборудования. Диагностика, дезинфекция, упаковка оборудования (кулеры, помпы). Предпродажная подготовка нового оборудования."
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "102",
-          "name": "Разнорабочий"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
       "id": "82165865",
       "premium": false,
       "name": "Грузчик",
@@ -4680,32 +4739,43 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "81764358",
+      "id": "79460765",
       "premium": false,
-      "name": "Менеджер по копакингу",
+      "name": "Менеджер производства",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
+        "id": "58",
+        "name": "Липецк",
+        "url": "https://api.hh.ru/areas/58"
       },
       "salary": null,
       "type": {
         "id": "open",
         "name": "Открытая"
       },
-      "address": null,
+      "address": {
+        "city": "Липецк",
+        "street": "Универсальный проезд",
+        "building": "14А",
+        "lat": 52.613168,
+        "lng": 39.525109,
+        "description": null,
+        "raw": "Липецк, Универсальный проезд, 14А",
+        "metro": null,
+        "metro_stations": [],
+        "id": "5940262"
+      },
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2023-07-07T09:58:01+0300",
-      "created_at": "2023-07-07T09:58:01+0300",
+      "published_at": "2023-06-13T08:11:33+0300",
+      "created_at": "2023-06-13T08:11:33+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81764358",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79460765",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/81764358?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/81764358",
+      "url": "https://api.hh.ru/vacancies/79460765?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/79460765",
       "relations": [],
       "employer": {
         "id": "6",
@@ -4722,8 +4792,8 @@
         "trusted": true
       },
       "snippet": {
-        "requirement": "Опыт работы не менее 3 лет на аналогичных должностях на крупных предприятиях пищевой промышленности по производству и розливу напитков. ",
-        "responsibility": "Организация комплексной работы с копакерами Компании на территории России. Руководство командой по копакингу оперативное регулирование и контроль выполнения поставленных задач..."
+        "requirement": "Знание законов и иных правовых актов Российской Федерации, касающихся области промышленной безопасности. Знание действующих норм и правил, государственные и отраслевые...",
+        "responsibility": "Обеспечение выполнения производственного плана. Контроль корректности учета используемого сырья, выпуска готовой продукции, обеспечение процесса отчетности о работе производственных смен и..."
       },
       "contacts": null,
       "schedule": null,
@@ -4733,8 +4803,8 @@
       "accept_temporary": false,
       "professional_roles": [
         {
-          "id": "107",
-          "name": "Руководитель проектов"
+          "id": "80",
+          "name": "Начальник производства"
         }
       ],
       "accept_incomplete_resumes": false,
@@ -4810,6 +4880,76 @@
         {
           "id": "31",
           "name": "Грузчик"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82321194",
+      "premium": false,
+      "name": "Пеший мерчендайзер (Ленинский/Канавинский)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-23T09:02:10+0300",
+      "created_at": "2023-06-23T09:02:10+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82321194",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82321194?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82321194",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
+        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "77",
+          "name": "Мерчандайзер"
         }
       ],
       "accept_incomplete_resumes": true,
@@ -4902,76 +5042,6 @@
       "experience": {
         "id": "between1And3",
         "name": "От 1 года до 3 лет"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "82321194",
-      "premium": false,
-      "name": "Пеший мерчендайзер (Ленинский/Канавинский)",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "66",
-        "name": "Нижний Новгород",
-        "url": "https://api.hh.ru/areas/66"
-      },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-06-23T09:02:10+0300",
-      "created_at": "2023-06-23T09:02:10+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82321194",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/82321194?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/82321194",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
-        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "77",
-          "name": "Мерчандайзер"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
       },
       "employment": {
         "id": "full",
@@ -5099,32 +5169,59 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "81847957",
+      "id": "81755531",
       "premium": false,
-      "name": "Менеджер по копакингу",
+      "name": "Менеджер по маркетинговым исследованиям / Market Research Manager",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "58",
-        "name": "Липецк",
-        "url": "https://api.hh.ru/areas/58"
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
       },
       "salary": null,
       "type": {
         "id": "open",
         "name": "Открытая"
       },
-      "address": null,
+      "address": {
+        "city": "Москва",
+        "street": "1-й Дербеневский переулок",
+        "building": "5с2",
+        "lat": 55.723749,
+        "lng": 37.654808,
+        "description": null,
+        "raw": "Москва, 1-й Дербеневский переулок, 5с2",
+        "metro": {
+          "station_name": "Павелецкая",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.101",
+          "line_id": "2",
+          "lat": 55.729741,
+          "lng": 37.638693
+        },
+        "metro_stations": [
+          {
+            "station_name": "Павелецкая",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.101",
+            "line_id": "2",
+            "lat": 55.729741,
+            "lng": 37.638693
+          }
+        ],
+        "id": "304481"
+      },
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2023-07-07T09:58:01+0300",
-      "created_at": "2023-07-07T09:58:01+0300",
+      "published_at": "2023-06-09T14:12:23+0300",
+      "created_at": "2023-06-09T14:12:23+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81847957",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81755531",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/81847957?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/81847957",
+      "url": "https://api.hh.ru/vacancies/81755531?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/81755531",
       "relations": [],
       "employer": {
         "id": "6",
@@ -5141,8 +5238,8 @@
         "trusted": true
       },
       "snippet": {
-        "requirement": "Опыт работы не менее 3 лет на аналогичных должностях на крупных предприятиях пищевой промышленности по производству и розливу напитков. ",
-        "responsibility": "Организация комплексной работы с копакерами Компании на территории России. Руководство командой по копакингу оперативное регулирование и контроль выполнения поставленных задач..."
+        "requirement": "Опыт в маркетинговых исследованиях на стороне исследовательского агентства и на стороне компании в fmcg. Обязателен опыт в количественных исследованиях. ",
+        "responsibility": "Поддержка бизнес-решений для усиления брендов и реализации инновационных проектов: интеграция знаний о потребительском поведении и предпочтениях, рыночной ситуации, трендах..."
       },
       "contacts": null,
       "schedule": null,
@@ -5152,14 +5249,14 @@
       "accept_temporary": false,
       "professional_roles": [
         {
-          "id": "107",
-          "name": "Руководитель проектов"
+          "id": "40",
+          "name": "Другое"
         }
       ],
-      "accept_incomplete_resumes": false,
+      "accept_incomplete_resumes": true,
       "experience": {
-        "id": "between3And6",
-        "name": "От 3 до 6 лет"
+        "id": "moreThan6",
+        "name": "Более 6 лет"
       },
       "employment": {
         "id": "full",
@@ -5287,189 +5384,6 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "81755531",
-      "premium": false,
-      "name": "Менеджер по маркетинговым исследованиям / Market Research Manager",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
-      },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": {
-        "city": "Москва",
-        "street": "1-й Дербеневский переулок",
-        "building": "5с2",
-        "lat": 55.723749,
-        "lng": 37.654808,
-        "description": null,
-        "raw": "Москва, 1-й Дербеневский переулок, 5с2",
-        "metro": {
-          "station_name": "Павелецкая",
-          "line_name": "Замоскворецкая",
-          "station_id": "2.101",
-          "line_id": "2",
-          "lat": 55.729741,
-          "lng": 37.638693
-        },
-        "metro_stations": [
-          {
-            "station_name": "Павелецкая",
-            "line_name": "Замоскворецкая",
-            "station_id": "2.101",
-            "line_id": "2",
-            "lat": 55.729741,
-            "lng": 37.638693
-          }
-        ],
-        "id": "304481"
-      },
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-06-09T14:12:23+0300",
-      "created_at": "2023-06-09T14:12:23+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81755531",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/81755531?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/81755531",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Опыт в маркетинговых исследованиях на стороне исследовательского агентства и на стороне компании в fmcg. Обязателен опыт в количественных исследованиях. ",
-        "responsibility": "Поддержка бизнес-решений для усиления брендов и реализации инновационных проектов: интеграция знаний о потребительском поведении и предпочтениях, рыночной ситуации, трендах..."
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "40",
-          "name": "Другое"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "moreThan6",
-        "name": "Более 6 лет"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "80287767",
-      "premium": false,
-      "name": "Старший микробиолог",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "58",
-        "name": "Липецк",
-        "url": "https://api.hh.ru/areas/58"
-      },
-      "salary": {
-        "from": 53500,
-        "to": null,
-        "currency": "RUR",
-        "gross": true
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": {
-        "city": "Липецк",
-        "street": "Универсальный проезд",
-        "building": "14а",
-        "lat": 52.6130627959883,
-        "lng": 39.5238757850415,
-        "description": null,
-        "raw": "Липецк, Универсальный проезд, 14а",
-        "metro": null,
-        "metro_stations": [],
-        "id": "447674"
-      },
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-06-27T17:53:12+0300",
-      "created_at": "2023-06-27T17:53:12+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80287767",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/80287767?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/80287767",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Образование высшее или средее специальное (микробиологическое). Опыт работы в аналогичной должности от 2-х лет (желательно в пищевой промышленности). ",
-        "responsibility": "Проведение бактериологических исследований (работа с лабораторным оборудованием, отбор образцов на исследование, идентификация микроорганизмов). Внедрении новых методов бактериологических исследований и лабораторного..."
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "40",
-          "name": "Другое"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "between3And6",
-        "name": "От 3 до 6 лет"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
       "id": "75506259",
       "premium": false,
       "name": "Менеджер по работе с ключевыми клиентами / КАМ в HoReCa (рестораны)",
@@ -5567,9 +5481,9 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "83124002",
+      "id": "82152641",
       "premium": false,
-      "name": "Мерчендайзер пеший, Новосибирск Калининский район(6-5-4 мкр, ул. Мясниковой)",
+      "name": "Инженер по водоподготовке и сиропокупажному отделению",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
@@ -5579,8 +5493,8 @@
         "url": "https://api.hh.ru/areas/4"
       },
       "salary": {
-        "from": null,
-        "to": 41000,
+        "from": 58000,
+        "to": null,
         "currency": "RUR",
         "gross": false
       },
@@ -5588,16 +5502,27 @@
         "id": "open",
         "name": "Открытая"
       },
-      "address": null,
+      "address": {
+        "city": "Новосибирск",
+        "street": "Бердское шоссе",
+        "building": "510",
+        "lat": 54.856486,
+        "lng": 83.075236,
+        "description": null,
+        "raw": "Новосибирск, Бердское шоссе, 510",
+        "metro": null,
+        "metro_stations": [],
+        "id": "795441"
+      },
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2023-07-07T08:22:07+0300",
-      "created_at": "2023-07-07T08:22:07+0300",
+      "published_at": "2023-06-22T05:29:51+0300",
+      "created_at": "2023-06-22T05:29:51+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83124002",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82152641",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/83124002?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/83124002",
+      "url": "https://api.hh.ru/vacancies/82152641?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82152641",
       "relations": [],
       "employer": {
         "id": "6",
@@ -5614,8 +5539,8 @@
         "trusted": true
       },
       "snippet": {
-        "requirement": "Образование не ниже среднего. Наличие санитарной книжки. Владение MS Office. Опыт работы мерчендайзером от 3 мес. желателен. Личные качества: коммуникабельность...",
-        "responsibility": "Обеспечение выкладки продукции согласно корпоративной планограмме. Отслеживание правильности и актуальности ценника по отношению к продукции. Заполнение отчетов по визитам в..."
+        "requirement": "Опыт работы в пищевом производстве на аналогичной должности и/или со схожим функционалом (Оператором производственной линии, Оператором купажного отделения). ",
+        "responsibility": "Управление технологическими процессами участка водоподготовки и розлива. Подготовка (ручные мойки, автоматические мойки), запуск, эксплуатация, остановка и контроль работы оборудования водоподготовки..."
       },
       "contacts": null,
       "schedule": null,
@@ -5625,14 +5550,14 @@
       "accept_temporary": false,
       "professional_roles": [
         {
-          "id": "77",
-          "name": "Мерчандайзер"
+          "id": "85",
+          "name": "Оператор производственной линии"
         }
       ],
-      "accept_incomplete_resumes": false,
+      "accept_incomplete_resumes": true,
       "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
       },
       "employment": {
         "id": "full",
@@ -5642,16 +5567,102 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "82995081",
+      "id": "80287767",
       "premium": false,
-      "name": "Торговый представитель (Севастополь+ п. Форос)",
+      "name": "Старший микробиолог",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "130",
-        "name": "Севастополь",
-        "url": "https://api.hh.ru/areas/130"
+        "id": "58",
+        "name": "Липецк",
+        "url": "https://api.hh.ru/areas/58"
+      },
+      "salary": {
+        "from": 53500,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Липецк",
+        "street": "Универсальный проезд",
+        "building": "14а",
+        "lat": 52.6130627959883,
+        "lng": 39.5238757850415,
+        "description": null,
+        "raw": "Липецк, Универсальный проезд, 14а",
+        "metro": null,
+        "metro_stations": [],
+        "id": "447674"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-27T17:53:12+0300",
+      "created_at": "2023-06-27T17:53:12+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80287767",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/80287767?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/80287767",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Образование высшее или средее специальное (микробиологическое). Опыт работы в аналогичной должности от 2-х лет (желательно в пищевой промышленности). ",
+        "responsibility": "Проведение бактериологических исследований (работа с лабораторным оборудованием, отбор образцов на исследование, идентификация микроорганизмов). Внедрении новых методов бактериологических исследований и лабораторного..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82931164",
+      "premium": false,
+      "name": "Торговый представитель",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "56",
+        "name": "Курск",
+        "url": "https://api.hh.ru/areas/56"
       },
       "salary": null,
       "type": {
@@ -5661,13 +5672,13 @@
       "address": null,
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2023-07-04T17:58:10+0300",
-      "created_at": "2023-07-04T17:58:10+0300",
+      "published_at": "2023-07-03T16:07:58+0300",
+      "created_at": "2023-07-03T16:07:58+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82995081",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82931164",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/82995081?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/82995081",
+      "url": "https://api.hh.ru/vacancies/82931164?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82931164",
       "relations": [],
       "employer": {
         "id": "6",
@@ -5712,16 +5723,16 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "82931164",
+      "id": "82995081",
       "premium": false,
-      "name": "Торговый представитель",
+      "name": "Торговый представитель (Севастополь+ п. Форос)",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "56",
-        "name": "Курск",
-        "url": "https://api.hh.ru/areas/56"
+        "id": "130",
+        "name": "Севастополь",
+        "url": "https://api.hh.ru/areas/130"
       },
       "salary": null,
       "type": {
@@ -5731,13 +5742,13 @@
       "address": null,
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2023-07-03T16:07:58+0300",
-      "created_at": "2023-07-03T16:07:58+0300",
+      "published_at": "2023-07-04T17:58:10+0300",
+      "created_at": "2023-07-04T17:58:10+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82931164",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82995081",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/82931164?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/82931164",
+      "url": "https://api.hh.ru/vacancies/82995081?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82995081",
       "relations": [],
       "employer": {
         "id": "6",
@@ -5857,18 +5868,23 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "82503706",
+      "id": "83124002",
       "premium": false,
-      "name": "Мерчендайзер (Чехов)",
+      "name": "Мерчендайзер пеший, Новосибирск Калининский район(6-5-4 мкр, ул. Мясниковой)",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "2078",
-        "name": "Чехов",
-        "url": "https://api.hh.ru/areas/2078"
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
       },
-      "salary": null,
+      "salary": {
+        "from": null,
+        "to": 41000,
+        "currency": "RUR",
+        "gross": false
+      },
       "type": {
         "id": "open",
         "name": "Открытая"
@@ -5876,13 +5892,13 @@
       "address": null,
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2023-06-27T08:57:03+0300",
-      "created_at": "2023-06-27T08:57:03+0300",
+      "published_at": "2023-07-07T08:22:07+0300",
+      "created_at": "2023-07-07T08:22:07+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82503706",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83124002",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/82503706?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/82503706",
+      "url": "https://api.hh.ru/vacancies/83124002?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/83124002",
       "relations": [],
       "employer": {
         "id": "6",
@@ -5899,8 +5915,8 @@
         "trusted": true
       },
       "snippet": {
-        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
-        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
+        "requirement": "Образование не ниже среднего. Наличие санитарной книжки. Владение MS Office. Опыт работы мерчендайзером от 3 мес. желателен. Личные качества: коммуникабельность...",
+        "responsibility": "Обеспечение выкладки продукции согласно корпоративной планограмме. Отслеживание правильности и актуальности ценника по отношению к продукции. Заполнение отчетов по визитам в..."
       },
       "contacts": null,
       "schedule": null,
@@ -6040,43 +6056,32 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "79656195",
+      "id": "82503706",
       "premium": false,
-      "name": "Инженер водоподготовки и розлива",
+      "name": "Мерчендайзер (Чехов)",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "2050",
-        "name": "Звенигород",
-        "url": "https://api.hh.ru/areas/2050"
+        "id": "2078",
+        "name": "Чехов",
+        "url": "https://api.hh.ru/areas/2078"
       },
       "salary": null,
       "type": {
         "id": "open",
         "name": "Открытая"
       },
-      "address": {
-        "city": "Звенигород",
-        "street": "улица Лермонтова",
-        "building": "вл39",
-        "lat": 55.741551,
-        "lng": 36.846782,
-        "description": null,
-        "raw": "Звенигород, улица Лермонтова, вл39",
-        "metro": null,
-        "metro_stations": [],
-        "id": "3427082"
-      },
+      "address": null,
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2023-07-03T07:42:53+0300",
-      "created_at": "2023-07-03T07:42:53+0300",
+      "published_at": "2023-06-27T08:57:03+0300",
+      "created_at": "2023-06-27T08:57:03+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79656195",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82503706",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/79656195?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/79656195",
+      "url": "https://api.hh.ru/vacancies/82503706?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82503706",
       "relations": [],
       "employer": {
         "id": "6",
@@ -6093,8 +6098,8 @@
         "trusted": true
       },
       "snippet": {
-        "requirement": "Средне-специальное, высшее образование. Знание технологических принципов очистки воды. Знание пневматики, гидравлики, электрики, желательно навыки КИП.",
-        "responsibility": "Осуществлять эксплуатацию системы оборудования водоподготовки согласно действующим технологическим инструкциям. Ведение розлива. Проведение ремонтов оборудования. Работа в рамках инструкции, компетенции сотрудника."
+        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
+        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
       },
       "contacts": null,
       "schedule": null,
@@ -6104,8 +6109,8 @@
       "accept_temporary": false,
       "professional_roles": [
         {
-          "id": "49",
-          "name": "Технолог"
+          "id": "77",
+          "name": "Мерчандайзер"
         }
       ],
       "accept_incomplete_resumes": false,
@@ -6179,6 +6184,87 @@
         }
       ],
       "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "79656195",
+      "premium": false,
+      "name": "Инженер водоподготовки и розлива",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2050",
+        "name": "Звенигород",
+        "url": "https://api.hh.ru/areas/2050"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Звенигород",
+        "street": "улица Лермонтова",
+        "building": "вл39",
+        "lat": 55.741551,
+        "lng": 36.846782,
+        "description": null,
+        "raw": "Звенигород, улица Лермонтова, вл39",
+        "metro": null,
+        "metro_stations": [],
+        "id": "3427082"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-03T07:42:53+0300",
+      "created_at": "2023-07-03T07:42:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79656195",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/79656195?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/79656195",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Средне-специальное, высшее образование. Знание технологических принципов очистки воды. Знание пневматики, гидравлики, электрики, желательно навыки КИП.",
+        "responsibility": "Осуществлять эксплуатацию системы оборудования водоподготовки согласно действующим технологическим инструкциям. Ведение розлива. Проведение ремонтов оборудования. Работа в рамках инструкции, компетенции сотрудника."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "49",
+          "name": "Технолог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
       "experience": {
         "id": "noExperience",
         "name": "Нет опыта"
@@ -6417,167 +6503,6 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "82152641",
-      "premium": false,
-      "name": "Инженер по водоподготовке и сиропокупажному отделению",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "4",
-        "name": "Новосибирск",
-        "url": "https://api.hh.ru/areas/4"
-      },
-      "salary": {
-        "from": 58000,
-        "to": null,
-        "currency": "RUR",
-        "gross": false
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": {
-        "city": "Новосибирск",
-        "street": "Бердское шоссе",
-        "building": "510",
-        "lat": 54.856486,
-        "lng": 83.075236,
-        "description": null,
-        "raw": "Новосибирск, Бердское шоссе, 510",
-        "metro": null,
-        "metro_stations": [],
-        "id": "795441"
-      },
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-06-22T05:29:51+0300",
-      "created_at": "2023-06-22T05:29:51+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82152641",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/82152641?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/82152641",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Опыт работы в пищевом производстве на аналогичной должности и/или со схожим функционалом (Оператором производственной линии, Оператором купажного отделения). ",
-        "responsibility": "Управление технологическими процессами участка водоподготовки и розлива. Подготовка (ручные мойки, автоматические мойки), запуск, эксплуатация, остановка и контроль работы оборудования водоподготовки..."
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "85",
-          "name": "Оператор производственной линии"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "between1And3",
-        "name": "От 1 года до 3 лет"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "82334157",
-      "premium": false,
-      "name": "Оператор-наладчик производственной линии",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "1204",
-        "name": "Бердск",
-        "url": "https://api.hh.ru/areas/1204"
-      },
-      "salary": {
-        "from": 48000,
-        "to": null,
-        "currency": "RUR",
-        "gross": false
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-06-23T12:23:42+0300",
-      "created_at": "2023-06-23T12:23:42+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82334157",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/82334157?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/82334157",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Опыт работы в пищевом производстве на аналогичной должности и/или со схожим функционалом. Преимуществом будет наличие профильного технического образования.",
-        "responsibility": "Обслуживание оборудования линии розлива, поддержание в рабочем состоянии, выполнение мелкого ремонта. Контроль качества выпускаемого продукта, фиксация параметров качества в чек..."
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "128",
-          "name": "Токарь, фрезеровщик, шлифовщик"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "between1And3",
-        "name": "От 1 года до 3 лет"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
       "id": "81453052",
       "premium": false,
       "name": "Разнорабочий/грузчик",
@@ -6653,19 +6578,19 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "82318352",
+      "id": "82334157",
       "premium": false,
-      "name": "Мойщик оборудования",
+      "name": "Оператор-наладчик производственной линии",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "4",
-        "name": "Новосибирск",
-        "url": "https://api.hh.ru/areas/4"
+        "id": "1204",
+        "name": "Бердск",
+        "url": "https://api.hh.ru/areas/1204"
       },
       "salary": {
-        "from": 40000,
+        "from": 48000,
         "to": null,
         "currency": "RUR",
         "gross": false
@@ -6677,13 +6602,13 @@
       "address": null,
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2023-06-26T06:57:36+0300",
-      "created_at": "2023-06-26T06:57:36+0300",
+      "published_at": "2023-06-23T12:23:42+0300",
+      "created_at": "2023-06-23T12:23:42+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82318352",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82334157",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/82318352?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/82318352",
+      "url": "https://api.hh.ru/vacancies/82334157?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82334157",
       "relations": [],
       "employer": {
         "id": "6",
@@ -6700,8 +6625,8 @@
         "trusted": true
       },
       "snippet": {
-        "requirement": "Опыт и желание работать. Образование среднее специальное.",
-        "responsibility": "Прием/передача оборудования. Диагностика, дезинфекция, упаковка оборудования (кулеры, помпы). Предпродажная подготовка нового оборудования."
+        "requirement": "Опыт работы в пищевом производстве на аналогичной должности и/или со схожим функционалом. Преимуществом будет наличие профильного технического образования.",
+        "responsibility": "Обслуживание оборудования линии розлива, поддержание в рабочем состоянии, выполнение мелкого ремонта. Контроль качества выпускаемого продукта, фиксация параметров качества в чек..."
       },
       "contacts": null,
       "schedule": null,
@@ -6711,89 +6636,14 @@
       "accept_temporary": false,
       "professional_roles": [
         {
-          "id": "40",
-          "name": "Другое"
+          "id": "128",
+          "name": "Токарь, фрезеровщик, шлифовщик"
         }
       ],
       "accept_incomplete_resumes": true,
       "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "79832893",
-      "premium": false,
-      "name": "Мерчендайзер, г. Екатеринбург (Ботаника-Автовокзал)",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "3",
-        "name": "Екатеринбург",
-        "url": "https://api.hh.ru/areas/3"
-      },
-      "salary": {
-        "from": null,
-        "to": 35000,
-        "currency": "RUR",
-        "gross": true
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-07-07T08:17:30+0300",
-      "created_at": "2023-07-07T08:17:30+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79832893",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/79832893?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/79832893",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
-        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "77",
-          "name": "Мерчандайзер"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
       },
       "employment": {
         "id": "full",
@@ -6956,6 +6806,156 @@
       "experience": {
         "id": "between3And6",
         "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "79832893",
+      "premium": false,
+      "name": "Мерчендайзер, г. Екатеринбург (Ботаника-Автовокзал)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "3",
+        "name": "Екатеринбург",
+        "url": "https://api.hh.ru/areas/3"
+      },
+      "salary": {
+        "from": null,
+        "to": 35000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-07T08:17:30+0300",
+      "created_at": "2023-07-07T08:17:30+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79832893",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/79832893?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/79832893",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
+        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "77",
+          "name": "Мерчандайзер"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82318352",
+      "premium": false,
+      "name": "Мойщик оборудования",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 40000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-26T06:57:36+0300",
+      "created_at": "2023-06-26T06:57:36+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82318352",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82318352?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82318352",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт и желание работать. Образование среднее специальное.",
+        "responsibility": "Прием/передача оборудования. Диагностика, дезинфекция, упаковка оборудования (кулеры, помпы). Предпродажная подготовка нового оборудования."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
       },
       "employment": {
         "id": "full",
@@ -7279,92 +7279,6 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "83096390",
-      "premium": false,
-      "name": "Мерчендайзер, Центральный район (ст м.Садовая,Невский)",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "2",
-        "name": "Санкт-Петербург",
-        "url": "https://api.hh.ru/areas/2"
-      },
-      "salary": {
-        "from": null,
-        "to": 43500,
-        "currency": "RUR",
-        "gross": false
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": {
-        "city": "Санкт-Петербург",
-        "street": "Центральный район",
-        "building": null,
-        "lat": 59.93818,
-        "lng": 30.365644,
-        "description": null,
-        "raw": "Санкт-Петербург, Центральный район",
-        "metro": null,
-        "metro_stations": [],
-        "id": "13721500"
-      },
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-07-06T14:25:56+0300",
-      "created_at": "2023-07-06T14:25:56+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83096390",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/83096390?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/83096390",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Опыт работы мерчендайзером желателен, но не является обязательным. Коммуникабельность, быстрая обучаемость, ответственность, самостоятельность.",
-        "responsibility": "Обеспечение выкладки продукции согласно корпоративной планограмме. Обеспечение максимальной представленности брендов компании в торговых точках. Поддержание товарного вида упаковки и имиджа..."
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "77",
-          "name": "Мерчандайзер"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
       "id": "82796325",
       "premium": false,
       "name": "Торговый представитель (Заволжский район)",
@@ -7521,6 +7435,162 @@
       "is_adv_vacancy": false
     },
     {
+      "id": "78523663",
+      "premium": false,
+      "name": "Пеший мерчендайзер (Советский район)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-13T09:18:57+0300",
+      "created_at": "2023-06-13T09:18:57+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=78523663",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/78523663?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/78523663",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
+        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "77",
+          "name": "Мерчандайзер"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "83096390",
+      "premium": false,
+      "name": "Мерчендайзер, Центральный район (ст м.Садовая,Невский)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": null,
+        "to": 43500,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Центральный район",
+        "building": null,
+        "lat": 59.93818,
+        "lng": 30.365644,
+        "description": null,
+        "raw": "Санкт-Петербург, Центральный район",
+        "metro": null,
+        "metro_stations": [],
+        "id": "13721500"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-06T14:25:56+0300",
+      "created_at": "2023-07-06T14:25:56+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83096390",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/83096390?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/83096390",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы мерчендайзером желателен, но не является обязательным. Коммуникабельность, быстрая обучаемость, ответственность, самостоятельность.",
+        "responsibility": "Обеспечение выкладки продукции согласно корпоративной планограмме. Обеспечение максимальной представленности брендов компании в торговых точках. Поддержание товарного вида упаковки и имиджа..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "77",
+          "name": "Мерчандайзер"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
       "id": "76824422",
       "premium": false,
       "name": "Грузчик",
@@ -7581,76 +7651,6 @@
         {
           "id": "31",
           "name": "Грузчик"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "78523663",
-      "premium": false,
-      "name": "Пеший мерчендайзер (Советский район)",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "66",
-        "name": "Нижний Новгород",
-        "url": "https://api.hh.ru/areas/66"
-      },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-06-13T09:18:57+0300",
-      "created_at": "2023-06-13T09:18:57+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=78523663",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/78523663?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/78523663",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
-        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "77",
-          "name": "Мерчандайзер"
         }
       ],
       "accept_incomplete_resumes": true,
@@ -7908,92 +7908,6 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "79153284",
-      "premium": false,
-      "name": "Водитель погрузчика (карщик)",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "2050",
-        "name": "Звенигород",
-        "url": "https://api.hh.ru/areas/2050"
-      },
-      "salary": {
-        "from": 42700,
-        "to": null,
-        "currency": "RUR",
-        "gross": false
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": {
-        "city": "Звенигород",
-        "street": "улица Лермонтова",
-        "building": "вл39",
-        "lat": 55.741551,
-        "lng": 36.846782,
-        "description": null,
-        "raw": "Звенигород, улица Лермонтова, вл39",
-        "metro": null,
-        "metro_stations": [],
-        "id": "3427082"
-      },
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-07-07T08:17:10+0300",
-      "created_at": "2023-07-07T08:17:10+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79153284",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/79153284?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/79153284",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Образование от среднего. Наличие удостоверения на вождение электропогрузчика (кары). Умение обращаться с электротележкой.",
-        "responsibility": "Формирование паллет с готовой продукцией. Формирование паллет с ТМЦ на отгрузку. Перемещение кулеров и оборудования в отдел санитарной обработки. "
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "21",
-          "name": "Водитель"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "between1And3",
-        "name": "От 1 года до 3 лет"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
       "id": "83094113",
       "premium": false,
       "name": "Мерчендайзер (ст.м.Ладожская-Новочеркасская, улицы:Косыгина,Наставников,Ириновский,Ударников)",
@@ -8112,76 +8026,6 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "82324271",
-      "premium": false,
-      "name": "Мерчендайзер (Московский проспект, улица Плехановская)",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "26",
-        "name": "Воронеж",
-        "url": "https://api.hh.ru/areas/26"
-      },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-06-23T09:59:14+0300",
-      "created_at": "2023-06-23T09:59:14+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82324271",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/82324271?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/82324271",
-      "relations": [],
-      "employer": {
-        "id": "6",
-        "name": "ИДС Боржоми",
-        "url": "https://api.hh.ru/employers/6",
-        "alternate_url": "https://hh.ru/employer/6",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
-        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
-      },
-      "contacts": null,
-      "schedule": null,
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "77",
-          "name": "Мерчандайзер"
-        }
-      ],
-      "accept_incomplete_resumes": false,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
       "id": "82318353",
       "premium": false,
       "name": "Мойщик оборудования",
@@ -8257,43 +8101,48 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "80722811",
+      "id": "79153284",
       "premium": false,
-      "name": "Заведующий материальным складом",
+      "name": "Водитель погрузчика (карщик)",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "58",
-        "name": "Липецк",
-        "url": "https://api.hh.ru/areas/58"
+        "id": "2050",
+        "name": "Звенигород",
+        "url": "https://api.hh.ru/areas/2050"
       },
-      "salary": null,
+      "salary": {
+        "from": 42700,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
       "type": {
         "id": "open",
         "name": "Открытая"
       },
       "address": {
-        "city": "Липецк",
-        "street": "Универсальный проезд",
-        "building": "14А",
-        "lat": 52.613168,
-        "lng": 39.525109,
+        "city": "Звенигород",
+        "street": "улица Лермонтова",
+        "building": "вл39",
+        "lat": 55.741551,
+        "lng": 36.846782,
         "description": null,
-        "raw": "Липецк, Универсальный проезд, 14А",
+        "raw": "Звенигород, улица Лермонтова, вл39",
         "metro": null,
         "metro_stations": [],
-        "id": "5940262"
+        "id": "3427082"
       },
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2023-07-02T15:14:57+0300",
-      "created_at": "2023-07-02T15:14:57+0300",
+      "published_at": "2023-07-07T08:17:10+0300",
+      "created_at": "2023-07-07T08:17:10+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80722811",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79153284",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/80722811?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/80722811",
+      "url": "https://api.hh.ru/vacancies/79153284?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/79153284",
       "relations": [],
       "employer": {
         "id": "6",
@@ -8310,8 +8159,8 @@
         "trusted": true
       },
       "snippet": {
-        "requirement": "Опыт работы в аналогичной должности от 2 лет. Знание Excel (сводные таблицы, формулы, работа с массивами данных), 1С (работа...",
-        "responsibility": "Организация и контроль работы склада (приёмки и разгрузки, размещения, отгрузки товара, проведение инвентаризаций). Ведение учета складских операций. Распределение обязанностей работников..."
+        "requirement": "Образование от среднего. Наличие удостоверения на вождение электропогрузчика (кары). Умение обращаться с электротележкой.",
+        "responsibility": "Формирование паллет с готовой продукцией. Формирование паллет с ТМЦ на отгрузку. Перемещение кулеров и оборудования в отдел санитарной обработки. "
       },
       "contacts": null,
       "schedule": null,
@@ -8321,11 +8170,167 @@
       "accept_temporary": false,
       "professional_roles": [
         {
-          "id": "81",
-          "name": "Начальник склада"
+          "id": "21",
+          "name": "Водитель"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82324271",
+      "premium": false,
+      "name": "Мерчендайзер (Московский проспект, улица Плехановская)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "26",
+        "name": "Воронеж",
+        "url": "https://api.hh.ru/areas/26"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-23T09:59:14+0300",
+      "created_at": "2023-06-23T09:59:14+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82324271",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82324271?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82324271",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Рассматриваем без опыта работы. Данная вакансия будет интересна для Вас, если рассматриваете такие позиции как: мерчендайзер, продавец, кассир, продавец-консультант...",
+        "responsibility": "Посещение точек федеральных/локальных сетей согласно маршруту. Выполнение поставленных задач по доле полки. Выкладка продукции по стандартам Компании. "
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "77",
+          "name": "Мерчандайзер"
         }
       ],
       "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "81940782",
+      "premium": false,
+      "name": "Водитель погрузчика",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "52",
+        "name": "Кострома",
+        "url": "https://api.hh.ru/areas/52"
+      },
+      "salary": {
+        "from": 40000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": null,
+        "lng": null,
+        "description": null,
+        "raw": "Кострома",
+        "metro": null,
+        "metro_stations": [],
+        "id": "294817"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-15T10:01:25+0300",
+      "created_at": "2023-06-15T10:01:25+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81940782",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/81940782?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/81940782",
+      "relations": [],
+      "employer": {
+        "id": "6",
+        "name": "ИДС Боржоми",
+        "url": "https://api.hh.ru/employers/6",
+        "alternate_url": "https://hh.ru/employer/6",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/676875.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/676874.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/233731.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Наличие удостоверения тракториста-машиниста, с открытыми категориями В и С и с пометкой на право управления погрузчиком. Опыт работы в...",
+        "responsibility": "Работа на новых погрузчиках Toyota, Komatsu. Погрузка и перемещение товара (питьевая вода), обслуживание погрузчика."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "21",
+          "name": "Водитель"
+        }
+      ],
+      "accept_incomplete_resumes": true,
       "experience": {
         "id": "between1And3",
         "name": "От 1 года до 3 лет"

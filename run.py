@@ -18,4 +18,18 @@ if __name__ == "__main__":
         print(file, "ОК", i)
         i += 1
 
+    print()
+    print(db_manager.get_companies_and_vacancies_count())
+    print()
+    print(db_manager.get_all_vacancies())
+    print()
+    print(db_manager.get_avg_salary(), "Средняя зарплата")
+    print()
+    for row in db_manager.get_vacancies_with_higher_salary():
+        print(row)
+        print()
+
+    print()
+    print(db_manager.get_vacancies_with_keyword("python"))
+
     db_manager.closs_conn()
